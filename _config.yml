@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : " 👩🏻‍🎓 公考加油站"
+title                    : " 🏦 理财智选堂"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://knowledgestorevip.github.io/GkStoreVIP.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://knowledgestorevip.github.io/LcStoreVIP.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "KnowledgeStoreVIP/GkStoreVIP.github.io"
+repository               : "KnowledgeStoreVIP/LcStoreVIP.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,11 +22,11 @@ repository               : "KnowledgeStoreVIP/GkStoreVIP.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "🌟 小王的上岸宝库"
-  pronouns         : "💬  微信号：bnc_0926"  
-  bio              : "👩🏻‍🎓 已考公上岸多年的老学姐一枚～"
-  location         : "广东省 广州市 越秀区"
-  employer         : "浙江大学 22 届硕士生"
+  name             : " 👨🏻‍💻 老李理财精选"
+  pronouns         : "💬 微信号：bnc_0926"  
+  bio              : "🏦 三年华尔街从业经验，回国创业中"
+  location         : "中国 香港 湾仔区"
+  employer         : "斯坦福大学 20 届校友"
   uri              : # URL
   # email            : "347441835@qq.com" 
 
